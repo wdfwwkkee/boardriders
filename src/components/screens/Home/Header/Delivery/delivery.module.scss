@@ -1,0 +1,53 @@
+
+.delivery {
+    color: #F2F2F2;
+    background: #000000;
+    padding: 35px 0px;
+    .deliveryContent {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    a {
+        color: #f2f2f2;
+    }
+
+    .location {
+        display: flex;
+        align-items: center;
+        gap : 50px;
+
+        .region {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+
+            .city {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+            }
+        }
+
+        .userBar {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+    }
+
+    .features {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+
+        div {
+            display: flex;
+            align-items: center;
+            gap: 10px   ;
+        }
+    }
+
+}

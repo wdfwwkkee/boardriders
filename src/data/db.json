@@ -1,0 +1,88 @@
+{
+    "promo" : [
+        {
+            "id" : 1,
+            "title" : "НАЗВАНИЕ АКЦИИ №1",
+            "image" : "https://s3-alpha-sig.figma.com/img/cc91/4499/e8332ffd4a39786cfeaa7b3bac11dba5?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jlu~1JCFGO-snDoAQ3~6VgzNQTHk5M-k2Nt0QCTHRChZacgoX5MOJoRwx3iL-YSHyYL4jBkPpnVOCBqIaMLtTyCmX4SRyJ1B~WP-V9wHmst5p4J0TvL-mPEaBikMersUd80~0LXTV3m0SfXOetHvq6zIPMOobrApW7dbYgsfVFlz8MikuHQ6renOTXJRN3l~5QHfC8ekJAJx5JpSda9ixdYFKlq3BuIA3T4~doOX4d4HBaCV0zoxcS68txX0ucuJGw0~0D~mlHLykFVc~0ScWfwStLri1WHUAWaRrVj6vhGxOWhy1izhyWECb75hgqy9SZPZez0XU913qWYpDYD2cQ__"
+        },
+        {
+            "id" : 2,
+            "title" : "НАЗВАНИЕ АКЦИИ №2",
+            "image" : "https://s3-alpha-sig.figma.com/img/a242/044c/02c5e5f8e15efec0a173b8de86999c07?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=h-pN5GcFjpBg57HAUlNc3T1hQSnqLwGUvKTiVNZaZ-Y21T5~qgVueH62jgEN1qoPAXggX5PUYP1GtHllul64LEzXMmFaesc9zWGnQmV0oNgZuIFjy0kcnwvv036CoArBmO3CJgn21nsPMq6PYyRw-oLAKP8R726V1tPmeFrVI4K4yOXPPjEhi819FbBLM1PmXAKZoBGqPn5VCIWS6b8Uuz7fsIS-kO6SbSCmXWcAdXowTBUNhurIPql5MN9RSpqWWKgpLuDswVCzuM9pPp5~XkN2EQ8wPk1StsQq~6KiLL8fuHpkbADlPpXf~t0EEzuIIPZOYlSsfCcTw8RbCH5bYw__"
+        }
+    ],
+    "news" : [
+        {
+            "id" : 1,
+            "title" : "LIB TECH",
+            "desc" : "Мужской Сноуборд",
+            "price" : 34392,
+            "image" : "https://s3-alpha-sig.figma.com/img/5644/a95e/58d33e7de19ad28c4cbcdf6cd0090536?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=got4oAXRFSHAMPvBLZ7vEK7X88NWxipvrLTdnAWmMUe8YrbHBgd6HENpwDi2OKYu8BxbQ3CFckrhGbD26wF3ggmqm5MjLmED6jv6xr3fbXrzxRbXw9y2GFLvP~k3bXu9FGRPDWs2fY966aYMGavZ9CFlmxoeVAE0v1fU6jHla19Jlj5iAYFDJnMhWfvcnkt035S6sThDAT23MbC2wGyeyRghIJoZllh7mj-4-BjmEcVuz1RXNTa25Z0ndGRon2y-THDLZt4EFW1dwcvAKOBPy7SF5Ze5eUFZVpa66plCeiGqyEYVKLI27mrwLMCykeO39HwBWt2DTDX5L7ttpibu9Q__",
+            "promo" : false,
+            "promoPercent" : 0
+        },
+        {
+            "id" : 2,
+            "title" : "LIB TECH",
+            "desc" : "Мужской Сноуборд",
+            "image" : "https://s3-alpha-sig.figma.com/img/d737/7360/6d5910805cc8d288bfca9bd74bc472d6?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=U-TxMRy2wruD8m-bm3wqHwLxmUruhcnw~-9uL~7cHlPEpwkVomhi9dxiupjsD-1jyAWq2~IaiSU9CU~obPLmzfq56Qa8VgEhK~uQY~pOzTLNFoSvmcbWvk2KcuJeOp94v6TWFQW-IP7ysPA7sAus2l172ray3LTq933o1Ec-rawh9t5qzC4K8M4P4P3q6Yc9pR8Fx0vytGvEifFhDgaWZH9Un4mGWhRdAJoi2I-hezBh6QG3iC~F~XlE84UXyYbVNinRweR79rz1TZW29pLXvgxDDklHV0eyZ4pxoEL7dmNdoXM0D-omU6WgB3iFuF8N3UC2rQzMrMEtfuByxoyJSQ__",
+            "price" : 34392,
+            "promo" : true,
+            "promoPercent" : 50
+        },
+        {
+            "id" : 3,
+            "title" : "LIB TECH",
+            "desc" : "Мужской Сноуборд",
+            "image" : "https://s3-alpha-sig.figma.com/img/32d0/11eb/307d3bda46ebb8a2b239fde671ca9e9a?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Immh1D0ByScHJAO5bJwA5hCKdU0XjYj91f65KPE-522nA4X92kh4EePvbDotv7fnV3g~UfC~myK3sxe91LOtU-xoNRFxnu9ekGR5K55hSRgOgVHAkmDYjM5tJIrHIFlyGs15oWeo5qU~zN15DMKsjrx3L1oULEh2UO2ksqF5CAjIf-nj7ekXlhXlXf-Y~JVJXKJFz8gS38sJldzD7PeT67JPcDQFSxEr01mLJB-eUCWC57qyvMXB4Oacx8lGS33rqmB2ywuKOAHCnCwAaLKpStuXIh43WUe8zd5lD5F~hRIufPPNLJptbGaswi9ESvqnzIKBXmicFbgohLEVV3F1bg__",
+            "price" : 34392,
+            "promo" : false,
+            "promoPercent" : 0
+        },
+        {
+            "id" : 4,
+            "title" : "LIB TECH",
+            "desc" : "Лыжи",
+            "image" : "https://s3-alpha-sig.figma.com/img/05c0/8aeb/077b1ab414a120c1e040fd67aa06f412?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DO~OsIpCeCEqsBIb9VDU1G2X7b49RHXxmoCXrtX-49hJ5DYxWbS9~lb2G7qiIXvneKotXyCzcSa4ph8wZMDvVb8xfoZx4Nj3R6O6agwCJsy~PnjC8NtBZy~eDCRcYjWgyc3Zstv1rXGrnR4PXF8iDTxe4vAOkBd7EjHw45h~M1dGE~JbQWNJunOimsgriZBMjXLWhOGjpJzROzQWdjT-gSRDXSzBacsXvH0082AffngW31lNOqCCAVPoPYfpdZmpxNcem7MHHKGgaIVEwtkid7TXTzmYR3dicPwfPgZ25xh2UK6PPow7GdF1enSB5y6leydQtbk~ILTARxYG2U4NZQ__",
+            "price" : 34392,
+            "promo" : false,
+            "promoPercent" : 0
+        },
+        {
+            "id" : 5,
+            "title" : "LIB TECH",
+            "desc" : "Мужской Сноуборд",
+            "price" : 34392,
+            "image" : "https://s3-alpha-sig.figma.com/img/5644/a95e/58d33e7de19ad28c4cbcdf6cd0090536?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=got4oAXRFSHAMPvBLZ7vEK7X88NWxipvrLTdnAWmMUe8YrbHBgd6HENpwDi2OKYu8BxbQ3CFckrhGbD26wF3ggmqm5MjLmED6jv6xr3fbXrzxRbXw9y2GFLvP~k3bXu9FGRPDWs2fY966aYMGavZ9CFlmxoeVAE0v1fU6jHla19Jlj5iAYFDJnMhWfvcnkt035S6sThDAT23MbC2wGyeyRghIJoZllh7mj-4-BjmEcVuz1RXNTa25Z0ndGRon2y-THDLZt4EFW1dwcvAKOBPy7SF5Ze5eUFZVpa66plCeiGqyEYVKLI27mrwLMCykeO39HwBWt2DTDX5L7ttpibu9Q__",
+            "promo" : false,
+            "promoPercent" : 0
+        },
+        {
+            "id" : 6,
+            "title" : "LIB TECH",
+            "desc" : "Мужской Сноуборд",
+            "image" : "https://s3-alpha-sig.figma.com/img/d737/7360/6d5910805cc8d288bfca9bd74bc472d6?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=U-TxMRy2wruD8m-bm3wqHwLxmUruhcnw~-9uL~7cHlPEpwkVomhi9dxiupjsD-1jyAWq2~IaiSU9CU~obPLmzfq56Qa8VgEhK~uQY~pOzTLNFoSvmcbWvk2KcuJeOp94v6TWFQW-IP7ysPA7sAus2l172ray3LTq933o1Ec-rawh9t5qzC4K8M4P4P3q6Yc9pR8Fx0vytGvEifFhDgaWZH9Un4mGWhRdAJoi2I-hezBh6QG3iC~F~XlE84UXyYbVNinRweR79rz1TZW29pLXvgxDDklHV0eyZ4pxoEL7dmNdoXM0D-omU6WgB3iFuF8N3UC2rQzMrMEtfuByxoyJSQ__",
+            "price" : 34392,
+            "promo" : true,
+            "promoPercent" : 50
+        },
+        {
+            "id" : 7,
+            "title" : "LIB TECH",
+            "desc" : "Мужской Сноуборд",
+            "image" : "https://s3-alpha-sig.figma.com/img/32d0/11eb/307d3bda46ebb8a2b239fde671ca9e9a?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Immh1D0ByScHJAO5bJwA5hCKdU0XjYj91f65KPE-522nA4X92kh4EePvbDotv7fnV3g~UfC~myK3sxe91LOtU-xoNRFxnu9ekGR5K55hSRgOgVHAkmDYjM5tJIrHIFlyGs15oWeo5qU~zN15DMKsjrx3L1oULEh2UO2ksqF5CAjIf-nj7ekXlhXlXf-Y~JVJXKJFz8gS38sJldzD7PeT67JPcDQFSxEr01mLJB-eUCWC57qyvMXB4Oacx8lGS33rqmB2ywuKOAHCnCwAaLKpStuXIh43WUe8zd5lD5F~hRIufPPNLJptbGaswi9ESvqnzIKBXmicFbgohLEVV3F1bg__",
+            "price" : 34392,
+            "promo" : false,
+            "promoPercent" : 0
+        },
+        {
+            "id" : 8,
+            "title" : "LIB TECH",
+            "desc" : "Лыжи",
+            "image" : "https://s3-alpha-sig.figma.com/img/05c0/8aeb/077b1ab414a120c1e040fd67aa06f412?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DO~OsIpCeCEqsBIb9VDU1G2X7b49RHXxmoCXrtX-49hJ5DYxWbS9~lb2G7qiIXvneKotXyCzcSa4ph8wZMDvVb8xfoZx4Nj3R6O6agwCJsy~PnjC8NtBZy~eDCRcYjWgyc3Zstv1rXGrnR4PXF8iDTxe4vAOkBd7EjHw45h~M1dGE~JbQWNJunOimsgriZBMjXLWhOGjpJzROzQWdjT-gSRDXSzBacsXvH0082AffngW31lNOqCCAVPoPYfpdZmpxNcem7MHHKGgaIVEwtkid7TXTzmYR3dicPwfPgZ25xh2UK6PPow7GdF1enSB5y6leydQtbk~ILTARxYG2U4NZQ__",
+            "price" : 34392,
+            "promo" : false,
+            "promoPercent" : 0
+        }
+    ]
+}

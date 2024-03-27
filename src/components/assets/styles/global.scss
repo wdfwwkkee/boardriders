@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text:wght@400..800&display=swap');
+
+* {
+    font-family: "Wix Madefor Text", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    padding: 0;
+    margin: 0;
+    line-height: 16.8px;
+    font-size: 13px;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+body {
+    
+    background: #FFFFFF;
+}
+
+.wrapper {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.swiper-button-prev:after, .swiper-rtl .swiper-button-next:after,
+.swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
+    background: #FFFFFF;
+    padding: 30px 10px;
+}
+
+.swiper-button-prev, .swiper-button-next {
+    color: #000000!important;
+}
+:root {
+    
+    --swiper-navigation-size : 20px!important;
+}
+

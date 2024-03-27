@@ -1,0 +1,45 @@
+.heroPromo {
+    padding: 30px 0px;
+}
+
+
+.heroImg {
+  background-image: url("https://s3-alpha-sig.figma.com/img/f8af/c844/e7b266ad5eb6b2c563c6d6b29f6ba816?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=N6b~iPK35O~0iQAa2kdB50C3Ru8ohUoUqrWDURqAYTIyMvVA6SZYeOWJ51YWNIDoIXQ939lSDo1BQyCKESvbcxyYwrRLvb8hjk7yCschSNSuGGum2Hhl-rQ5lb5uoHFuxO2WDgtQGAuTMeHgTZIKWlCIzbKrwvCp5Q4-vgeuVjwviV7v1GELSW64mMbqqoJ9Ah7ih~vFblQ1eHRJREB-VkiDn7AFi88waVMxRya7DLrBlQAcSHkg9Xup3XlVPPxO38DjaELDite8~k4-15P5uk8nBwAwjkGLMW6~O~yO8mBa5FnQACNFjJ~MRHa1Peqqjb3NEHqJTScU5FEN~9Smog__");
+  background-size: cover;
+  position: relative;
+  background-position: center;
+  margin-bottom: 20px;
+  height: 400px;
+  .logo {
+    position: absolute;
+    top: 15px;
+    img {
+        background: white;
+        width: 80px;
+        height: 80px;
+        padding: 10px;
+    }
+    z-index: 10;
+    left: 20px;
+  }
+}
+
+.info {
+  text-align: center;
+  .title {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 35px;
+    letter-spacing: -0.02em;
+    margin-bottom: 15px;
+  }
+  .desc {
+    color: #828282;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    margin: 0 auto;
+    max-width: 700px;
+    letter-spacing: -0.02em;
+  }
+}

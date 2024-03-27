@@ -1,0 +1,18 @@
+.navBar {
+  padding: 20px 0px;
+}
+.navBarList {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+  div a {
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+
+    &:hover {
+      color: #eb5757;
+    }
+  }
+}
